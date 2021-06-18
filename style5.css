@@ -1,0 +1,17 @@
+.maindiv	{
+	margin:4%;
+	width:100%;
+}
+.ware	{
+	float:right;
+	margin:4%;
+	margin-right:50%;
+}
+.ty	{
+	float:right;
+	margin:6%;
+}
+.ping	{
+	float:right;
+	margin-top:10%;
+}
